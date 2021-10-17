@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T18:05:51.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SMQCcI2Cz0s3qoSVyOrI" version="15.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-17T18:06:33.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="DBGoLd6JaDWvR9Nm0rNY" version="15.5.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Centro de Enseñanza">
     <mxGraphModel dx="1185" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,6 +403,9 @@
         </mxCell>
         <mxCell id="APu870FjB84tNfEB1LQS-44" value="Comuniatrio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_1b64zynw675WAx1sAPe-1">
           <mxGeometry x="880" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APu870FjB84tNfEB1LQS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_1b64zynw675WAx1sAPe-1" source="APu870FjB84tNfEB1LQS-45" target="APu870FjB84tNfEB1LQS-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="APu870FjB84tNfEB1LQS-45" value="Sueldo entrenador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_1b64zynw675WAx1sAPe-1">
           <mxGeometry x="730" y="40" width="120" height="80" as="geometry" />
